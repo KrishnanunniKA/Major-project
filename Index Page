@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <title>The Garage </title>
+  </head>
+  <body>
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand">Welcome to the Garage</a>
+        <form class="form-inline">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Log in</button>
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Sign Up</button>
+        </form>
+      </nav>
+    <div class="container">
+      <div class="card-group">
+        <div class="card">
+          <img src="https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">White Knight</h5>
+            <h6>Category: Speed Beasts</h6>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <button class="btn btn-primary">View Details</button>
+            <button class="btn btn-primary">Buy now</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://images.unsplash.com/photo-1580654712603-eb43273aff33?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Blue Shark</h5>
+            <h6>Category: Speed Beasts</h6>
+            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            <button class="btn btn-primary">View detials</button>
+            <button class="btn btn-primary">Buy Now</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://images.unsplash.com/photo-1570829174962-38c53efc5e5a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Green Hornet</h5>
+            <h6>Category: Speed Beasts</h6>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+            <button class="btn btn-primary">View detials</button>
+            <button class="btn btn-primary">Buy Now</button>          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
