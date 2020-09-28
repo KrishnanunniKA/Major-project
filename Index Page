@@ -25,7 +25,7 @@
           <div class="card-body">
             <h5 class="card-title">White Knight</h5>
             <h6>Category: Speed Beasts</h6>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text">The Huracán has the exotic design to make onlookers drool, the V-10 sounds to make spines tingle, and the price to remind most people they'll never own one.</p>
             <button class="btn btn-primary">View Details</button>
             <button class="btn btn-primary">Buy now</button>
           </div>
@@ -35,7 +35,7 @@
           <div class="card-body">
             <h5 class="card-title">Blue Shark</h5>
             <h6>Category: Speed Beasts</h6>
-            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            <p class="card-text">With wild styling and a naturally aspirated V-12 engine, the 2020 Lamborghini Aventador is a flamboyant send-off to unadulterated supercars.</p>
             <button class="btn btn-primary">View detials</button>
             <button class="btn btn-primary">Buy Now</button>
           </div>
@@ -45,7 +45,7 @@
           <div class="card-body">
             <h5 class="card-title">Green Hornet</h5>
             <h6>Category: Speed Beasts</h6>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+            <p class="card-text">As the flagship for supercar royalty, the wild-looking and wildly powerful 2019 Lamborghini Aventador does more than just carry the Lamborghini torch—it intensifies the flame.</p>
             <button class="btn btn-primary">View detials</button>
             <button class="btn btn-primary">Buy Now</button>          </div>
         </div>
